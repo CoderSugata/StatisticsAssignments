@@ -1,5 +1,10 @@
 # 📊 Statistics Assignments
 
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
+![Numpy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+
 Welcome to my **Statistics Assignments** repository!  
 This repository documents my journey in learning and applying statistics — from basics to advanced topics — with hands-on practice through Jupyter notebooks.  
 
@@ -44,6 +49,5 @@ I created this repository to:
 <a href="https://www.instagram.com/sugata_12/" target="_blank">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
 </a>
-
 
 > ✨ *Star this repo if you’re also exploring statistics — or fork it to practice along!*  
