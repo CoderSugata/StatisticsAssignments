@@ -1,6 +1,4 @@
-<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2faff332-d01f-4ad1-b2b1-7992163db4da" />
-
-
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/1df30699-345a-4d27-8d51-c6f1b6ade607" />
 
 # 📊 Statistics Assignments
 
@@ -12,8 +10,6 @@
 Welcome to my **Statistics Assignments** repository!  
 This repository documents my journey in learning and applying statistics — from basics to advanced topics — with hands-on practice through Jupyter notebooks.  
 
----
-
 ## 📁 Repository Structure
 
 | File                          | Description |
@@ -22,7 +18,6 @@ This repository documents my journey in learning and applying statistics — fro
 | `Statistics_Advance_Part_1.ipynb` | Advanced concepts including hypothesis testing (Part 1, Module 2) |
 | `Statistics_Advance_Part_2.ipynb` | Further applications of advanced statistics (Part 2, Module 3) |
 
----
 
 ## 💡 What I've Learned
 
@@ -32,8 +27,6 @@ This repository documents my journey in learning and applying statistics — fro
 - ✅ Advanced statistical inference methods  
 - ✅ Practical applications of statistical techniques in data analysis  
 
----
-
 ## 📌 Why This Repo?
 
 I created this repository to:
@@ -41,8 +34,6 @@ I created this repository to:
 - 📚 Strengthen my foundation in statistics  
 - 🧾 Document assignments and solutions  
 - 🌐 Share resources with other learners diving into applied statistics  
-
----
 
 ## 📷 Connect with Me
 
