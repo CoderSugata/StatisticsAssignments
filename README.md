@@ -1,3 +1,7 @@
+<img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/2faff332-d01f-4ad1-b2b1-7992163db4da" />
+
+
+
 # 📊 Statistics Assignments
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
